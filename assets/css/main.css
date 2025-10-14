@@ -1,0 +1,116 @@
+.carousel-inner img{
+    height: 70vh;
+}
+
+.one{
+    background-color: black;
+    height: 40vh;
+}
+.two{
+    background-color: #0a53be;
+    height: 40vh;
+}
+.three{
+    background-color: #0a3622;
+    height: 40vh;
+}
+.four{
+    background-color: #2c0b0e;
+    height: 40vh;
+}
+.row img{
+    height: 40vh;
+    width: 100%;
+}
+
+
+
+.a{
+    background-color: #3dd5f3;
+    height: 40vh;
+}
+.b{
+    background-color: #20c997;
+    height: 40vh;
+}
+.c{
+    background-color: #6ea8fe;
+    height: 40vh;
+}
+.d{
+    background-color: #997404;
+    height: 40vh;
+}
+
+
+
+
+
+
+/*styling of nav*/
+.custom-hover:hover{
+    color: #5fcf80 !important;
+}
+.navbar-bottom{
+    background-color: #5ab873;
+}
+.subheading{
+    background-color: #5fcf80;
+}
+.para-one{
+    background-color: #5fcf80;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    height: 6vh;
+}
+.para-two{
+    background-color: #5fcf80;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    height: 6vh;
+
+
+}
+.para-three{
+    background-color: #5fcf80;
+    width: 25%;
+    height: 6vh;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-md-4 h5 a{
+    text-decoration: none;
+    color: black;
+}
+.col-md-4 h5 a:hover{
+     color:  #5fcf80;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
